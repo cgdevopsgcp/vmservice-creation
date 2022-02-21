@@ -1,5 +1,5 @@
-resource "google_compute_instance" "auto-expire" {
-  name         = "servicevm"
+resource "google_compute_instance" "autodefault" {
+  name         = "servicevmghgfhgfhg"
   machine_type = "e2-medium"
   zone         = "asia-south1-c"
 
