@@ -1,5 +1,5 @@
 resource "google_compute_instance" "afdkhffb" {
-  name         = "frgfsdgrfegerg"
+  name         = "rohitdinesh"
   machine_type = "e2-medium"
   zone         = "us-west1-b"
 
