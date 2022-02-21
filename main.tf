@@ -1,5 +1,5 @@
-resource "google_compute_instance" "autodefault" {
-  name         = "servicevmghgfhgfhg"
+resource "google_compute_instance" "afdkhffb" {
+  name         = "frgfsdgrfegerg"
   machine_type = "e2-medium"
   zone         = "asia-south1-c"
 
