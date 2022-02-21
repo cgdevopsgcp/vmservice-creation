@@ -1,7 +1,7 @@
 resource "google_compute_instance" "afdkhffb" {
   name         = "frgfsdgrfegerg"
   machine_type = "e2-medium"
-  zone         = "asia-south1-c"
+  zone         = "us-west1-b"
 
   boot_disk {
     initialize_params {
