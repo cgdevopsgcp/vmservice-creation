@@ -28,5 +28,5 @@ steps:
       - export GCP_SECRET_ACCESS_KEY=$SECRET_KEY
       - terraform init
       - terraform validate
-      - terraform plan -out=file12
+      - terraform plan 
       - terraform apply -auto-approve
