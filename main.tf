@@ -1,5 +1,5 @@
-resource "google_compute_instance" "afdkhffb" {
-  name         = "dinesh27398"
+resource "google_compute_instance" "alpha" {
+  name         = "beta"
   machine_type = "e2-medium"
   zone         = "us-west1-b"
 
