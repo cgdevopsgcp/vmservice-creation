@@ -9,7 +9,7 @@ steps:
     stage: checkout
     type: git-clone
     repo: 'cgdevopsgcp/vmservice-creation'
-    revision: master
+    revision: main
     git: github      
   SetupAuth:
     image: alpine:3.9
